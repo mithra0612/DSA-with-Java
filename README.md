@@ -59,4 +59,4 @@ While this repository is focused on my personal DSA learning journey, feel free 
 
 <h3>🔗 Connect with Me</h3>
 <a href="https://www.linkedin.com/in/madhumithra-m/" target="_blank">LinkedIn</a><br>
-LeetCode - <a href="https://leetcode.com/u/mithra_612/" target="_blank">LeetCode</a>
+<a href="https://leetcode.com/u/mithra_612/" target="_blank">LeetCode</a>
