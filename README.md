@@ -50,7 +50,7 @@ Develop efficient problem-solving skills for competitive programming and coding 
 
 <h3>📝 How to Use this Repository</h3>
 - Clone the repository:
- git clone https://github.com/yourusername/dsa-practice-java.git
+ git clone https://github.com/mithra0612/DSA-with-java.git
 - Navigate to the LeetCode/ directory to see the solutions to the problems.
 - Visit the Daily-Journey/ directory to track my progress.
 
@@ -58,5 +58,5 @@ Develop efficient problem-solving skills for competitive programming and coding 
 While this repository is focused on my personal DSA learning journey, feel free to raise issues or suggest improvements in my code. All constructive feedback is welcome!
 
 <h3>🔗 Connect with Me</h3>
-LinkedIn - <a href="https://www.linkedin.com/in/madhumithra-m/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/madhumithra-m/" target="_blank">LinkedIn</a><br>
 LeetCode - <a href="https://leetcode.com/u/mithra_612/" target="_blank">LeetCode</a>
