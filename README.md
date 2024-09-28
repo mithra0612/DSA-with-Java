@@ -8,18 +8,6 @@ LeetCode/: Contains all the solutions for LeetCode problems, organized by proble
 Daily-Journey/: A day-wise breakdown of my DSA practice and learning, including coding challenges, learning resources, and notes.
 Other-DSA-Problems/: Contains solutions for problems from other platforms or additional DSA challenges.
 
-<h3>📚 DSA Topics Covered</h3>
-Arrays
-Strings
-Linked Lists
-Stacks & Queues
-Trees
-Graphs
-Dynamic Programming
-Backtracking
-Sorting & Searching Algorithms
-And more...
-
 <h3>🚀 Daily Learning Journey</h3>
 Each day, I aim to:
 Solve at least 1-2 new problems from LeetCode.
