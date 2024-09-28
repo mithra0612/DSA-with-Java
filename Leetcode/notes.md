@@ -82,3 +82,8 @@ int length = arr.length; // Returns the number of elements in the array
 
 <h2>8. Conclusion</h2>
 <p>Arrays are one of the simplest and most useful data structures in Java, but their fixed size and homogeneous nature can be limiting in certain cases. For more flexible and dynamic data structures, collections such as ArrayList or LinkedList can be used.</p>
+
+<h2>9. LeetCode Problems Solved Related to Arrays</h2>
+<ul>
+  <li><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">121. Best Time to Buy and Sell Stock</a></li>
+</ul>
