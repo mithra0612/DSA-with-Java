@@ -3,11 +3,6 @@
 
 Welcome to my Data Structures and Algorithms (DSA) practice repository! This repository contains all the codes I've written while solving LeetCode problems and other DSA challenges using Java. Here, I track my DSA journey as I continue to learn, practice, and refine my DSA skills.
 
-<h3>📂 Repository Structure</h3>
-<ul>LeetCode/: Contains all the solutions for LeetCode problems, organized by problem number and topic.</ul>
-<ul>Daily-Journey/: A day-wise breakdown of my DSA practice and learning, including coding challenges, learning resources, and notes.</ul>
-<ul>Other-DSA-Problems/: Contains solutions for problems from other platforms or additional DSA challenges.</ul>
-
 <h3>🚀 Daily Learning Journey</h3>
 Each day, I aim to:
 <ul>Solve at least 1-2 new problems from LeetCode.</ul>
@@ -26,7 +21,7 @@ Problems solved.
 
 <h3>🌱 Goals</h3>
 Short-Term:
-Solve 150+ LeetCode problems across a variety of topics.
+Solve 200+ LeetCode problems across a variety of topics.
 Get a strong understanding of time and space complexity analysis.
 Long-Term:
 Build a solid foundation in DSA to prepare for technical interviews.
