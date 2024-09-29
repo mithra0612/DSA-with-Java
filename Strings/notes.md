@@ -130,6 +130,6 @@ if (str.equals("Hello, World!")) {
 <p>Strings are a fundamental data structure in Java, offering both flexibility and efficiency for managing text. However, immutability can lead to performance issues in certain cases, where alternatives like StringBuilder or StringBuffer are more appropriate. Understanding how to manipulate strings efficiently is crucial for Java developers.</p>
 
 <h2>9. LeetCode Problems Solved Related to Strings</h2>
-<ul>
-  <li><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">LeetCode 1945: Sum of Digits of String After Convert</a></li>
-</ul>
+<ol>
+  <li><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945.Sum of Digits of String After Convert</a></li>
+</ol>
