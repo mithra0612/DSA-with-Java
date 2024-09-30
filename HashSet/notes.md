@@ -114,3 +114,8 @@ public class HashSetExample {
 </ol>
 
 <p>In summary, <code>HashSet</code> is a very useful collection when you need to ensure uniqueness of elements and don't care about the order of elements.</p>
+<h3>LeetCode Problems Solved</h3>
+<ol>
+    <li><a href="https://leetcode.com/problems/report-spam-message">3295. Report Spam Message</a></li>
+    
+</ol>
