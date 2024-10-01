@@ -117,5 +117,6 @@ public class HashSetExample {
 <h3>LeetCode Problems Solved</h3>
 <ol>
     <li><a href="https://leetcode.com/problems/report-spam-message">3295. Report Spam Message</a></li>
+    <li><a href="https://leetcode.com/problems/first-missing-positive/">41.First Missing Positive</a></li>
     
 </ol>
