@@ -37,6 +37,7 @@ Through solving these problems, I've honed my skills in:
   <li><a href="https://leetcode.com/problems/roman-to-integer/">13. Roman to Integer</a></li>
   <li><a href="https://leetcode.com/problems/climbing-stairs/">70. Climbing Stairs</a></li>
   <li><a href="https://leetcode.com/problems/powx-n/">50. Pow(x, n)</a></li>
+  <li><a href="https://leetcode.com/problems/multiply-strings/">43. Multiply Strings</a></li>
  
  
   <!-- Add more problem links as needed -->
