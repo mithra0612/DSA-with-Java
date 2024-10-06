@@ -4,6 +4,7 @@
 <p>A <b>String</b> in Java is a sequence of characters. Strings are objects in Java, meaning they come with many built-in methods for handling text data. Strings are immutable, which means once a string is created, it cannot be changed.</p>
 
 <h3>Syntax:</h3>
+
 <pre><code>
 // Creating a String
 String str = "Hello, World!";
