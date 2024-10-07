@@ -133,4 +133,5 @@ if (str.equals("Hello, World!")) {
 <h2>9. LeetCode Problems Solved Related to Strings</h2>
 <ol>
   <li><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945.Sum of Digits of String After Convert</a></li>
+  <li><a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/">2696. Minimum String Length After Removing Substrings</a></li>
 </ol>
