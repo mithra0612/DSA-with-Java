@@ -84,6 +84,7 @@ public class Stack {
 <h2>6. LeetCode Problems Solved Using Stack</h2>
 <ul>
     <li><a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">20. Valid Parentheses</a>
+    <li><a href="https://leetcode.com/problems/simplify-path/" target="_blank">71. Simplify Path</a>
 </ul>
 
 <h2>7. Time Complexity</h2>
