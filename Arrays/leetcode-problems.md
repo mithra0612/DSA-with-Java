@@ -9,4 +9,5 @@
   <li><a href="https://leetcode.com/problems/3sum/">15. 3Sum</a></li>
   <li><a href="https://leetcode.com/problems/3sum-closest/">16. 3Sum Closest</a></li>
   <li><a href="https://leetcode.com/problems/count-items-matching-a-rule/">1773. Count Items Matching a Rule</a></li>
+  <li><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></li>
   </ol>
