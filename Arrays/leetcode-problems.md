@@ -10,4 +10,7 @@
   <li><a href="https://leetcode.com/problems/3sum-closest/">16. 3Sum Closest</a></li>
   <li><a href="https://leetcode.com/problems/count-items-matching-a-rule/">1773. Count Items Matching a Rule</a></li>
   <li><a href="https://leetcode.com/problems/move-zeroes/">283. Move Zeroes</a></li>
+  <li><a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/">1913. Maximum Product Difference Between Two Pairs</a></li>
+  <li><a href="https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/">1985. Find the Kth Largest Integer in the Array
+</a></li>
   </ol>
