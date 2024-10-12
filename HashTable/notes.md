@@ -139,6 +139,6 @@ boolean isEmpty = ht.isEmpty(); // true
 <h2>10. LeetCode Problems Solved Related to Hashtable</h2>
 <ul>
   <li><a href="https://leetcode.com/problems/rank-transform-of-an-array/">1331. Rank Transform of an Array
+  <li><a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/">3005. Count Elements With Maximum Frequency
 </a></li>
-
 </ul>
