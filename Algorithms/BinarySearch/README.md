@@ -119,13 +119,11 @@ public class BinarySearch {
         </p>
     </li>
     <li>
-        <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/" target="_blank">34. Find First and Last Position of Element in Sorted Array</a>
-        <p>
-            <strong>Description:</strong> Given a sorted array and a target value, return the starting and ending position of the target. Use binary search to find both positions.
-        </p>
+        <a href="https://leetcode.com/problems/binary-search/" target="_blank">704. Binary Search
+        <a href="https://leetcode.com/problems/binary-search/" target="_blank">704. Binary Search
+</a>
     </li>
     <li>
-        <a href="https://leetcode.com/problems/koko-eating-bananas/" target="_blank">875. Koko Eating Bananas</a>
         <p>
             <strong>Description:</strong> Koko loves bananas and is trying to eat them at a certain speed. The task is to determine the minimum eating speed Koko needs to finish all the bananas in a given time, which can be solved using binary search.
         </p>
