@@ -142,6 +142,6 @@ boolean isEmpty = ht.isEmpty(); // true
   <li><a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/">3005. Count Elements With Maximum Frequency
   <li><a href="https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/">3289. The Two Sneaky Numbers of Digitville
   <li><a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II
-  <li><a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II
+  <li><a href="https://leetcode.com/problems/decode-the-message/">2325. Decode the Message
 </a></li>
 </ul>
