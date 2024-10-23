@@ -86,6 +86,7 @@ public class Stack {
     <li><a href="https://leetcode.com/problems/valid-parentheses/" target="_blank">20. Valid Parentheses</a>
     <li><a href="https://leetcode.com/problems/simplify-path/" target="_blank">71. Simplify Path</a>
     <li><a href="https://leetcode.com/problems/remove-outermost-parentheses/" target="_blank">1021. Remove Outermost Parentheses</a>
+    <li><a href="https://leetcode.com/problems/basic-calculator-ii/" target="_blank">227. Basic Calculator II</a>
 </ul>
 
 <h2>7. Time Complexity</h2>
