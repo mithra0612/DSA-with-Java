@@ -145,4 +145,8 @@ boolean isEmpty = ht.isEmpty(); // true
 </a></li>
   <li><a href="https://leetcode.com/problems/decode-the-message/">2325. Decode the Message
   <li><a href="https://leetcode.com/problems/contains-duplicate-ii/">219. Contains Duplicate II
+  <li><a href="https://leetcode.com/problems/word-pattern/">290.Word Pattern
+  <li><a href="https://leetcode.com/problems/word-pattern/">290.Word Pattern
+  <li><a href="https://leetcode.com/problems/single-number-ii/">137. Single Number II
+  <li><a href="https://leetcode.com/problems/single-number-iii/">260. Single Number III
 </ul>
