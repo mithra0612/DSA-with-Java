@@ -90,6 +90,9 @@ public class HashSetExample {
 
 <ul>
     <li><a href="https://leetcode.com/problems/distribute-candies/" target="_blank">575. Distribute Candies</a></li>
+    <li><a href="https://leetcode.com/problems/single-number/" target="_blank">136. Single Number</a></li>
+    <li><a href="https://leetcode.com/problems/find-the-difference/" target="_blank">389. Find the Difference</a></li>
+    <li><a href="https://leetcode.com/problems/contains-duplicate/" target="_blank">217. Contains Duplicate</a></li>
    
 </ul>
 
