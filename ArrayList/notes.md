@@ -138,4 +138,5 @@ while (iterator.hasNext()) {
 <h2>10. LeetCode Problems Solved Related to List</h2>
 <ul>
   <li><a href="https://leetcode.com/problems/count-items-matching-a-rule/">1773. Count Items Matching a Rule</a></li>
+  <li><a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a></li>
 </ul>
