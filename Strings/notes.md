@@ -134,4 +134,5 @@ if (str.equals("Hello, World!")) {
 <ol>
   <li><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">1945.Sum of Digits of String After Convert</a></li>
   <li><a href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/">2696. Minimum String Length After Removing Substrings</a></li>
+  <li><a href="https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/">1961. Check If String Is a Prefix of Array</a></li>
 </ol>
